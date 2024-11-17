@@ -19,19 +19,25 @@ This is a project that utilizes hand gestures for controlling and interacting wi
 # Installation and running:
 
 1. Clone the repository:
+   
       git clone [https://github.com/](https://github.com/MadhumithaKolkar/AirFlow.git)
 
-2. Install the required packages:
+3. Install the required packages:
+   
       python -m pip install opencv-python numpy mediapipe
    
-3. Run the Python script:
+5. Run the Python script:
+   
       python AirFlow.py
    
-4. Use hand gestures to interact with the application:
+7. Use hand gestures to interact with the application:
 
       -> Move your hand to draw on the canvas
+   
       -> Change colors by selecting different regions on the screen
+   
       -> Clear the canvas by pressing the "CLEAR" button
+   
       -> Exit the application by pressing the "q" key
 
 
